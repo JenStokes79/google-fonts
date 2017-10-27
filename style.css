@@ -1,0 +1,40 @@
+h1 {
+	font-family: 'Satisfy', cursive;
+}
+
+.one {
+	font-family: 'Lobster Two', cursive;
+}
+
+.two {
+	font-family: 'Fascinate Inline', cursive;
+}
+
+* {
+	transition: 2s;
+}
+
+h2 {
+	background: blue;
+	font-size: 50px;
+	transition: 2s;
+	width: 350px;
+	text-align: center;
+}
+
+h2:hover {
+	background: black;
+	color: white;
+	transition: 2s;
+
+}
+
+a {
+	text-decoration: none;
+	color: red;
+	font-size: 60px;
+}
+
+a:focus {
+	background: black;
+}
